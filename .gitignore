@@ -1,0 +1,6 @@
+/.idea/
+/out/
+/db/books/
+/db/addressbook/
+*.log
+*.iml
